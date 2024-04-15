@@ -42,3 +42,11 @@
 
 
 
+    foreach ($hotels as $hotel) {
+
+        echo $hotel['name'] . "Descrizione :" . $hotel['description'] . "vote" . $hotel['vote'] . "Distance to center" . $hotel['distance_to_center'] . "<h2>Hotels</h2>" . "<br>";
+    }
+
+
+
+
