@@ -47,6 +47,19 @@
         echo $hotel['name'] . "Descrizione :" . $hotel['description'] . "vote" . $hotel['vote'] . "Distance to center" . $hotel['distance_to_center'] . "<h2>Hotels</h2>" . "<br>";
     }
 
+    ?>
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>php-hotel</title>
+</head>
+<body>
+    
 
+
+</body>
+</html>
