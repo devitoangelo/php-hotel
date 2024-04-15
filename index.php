@@ -71,10 +71,10 @@ $hotels = [
     <!-- cicclo all'interno del body -->
     <?php foreach ($hotels as $hotel) :   ?>
 
-
-        <div class="container">
-            <div class="row">
-                <div class="col">
+ 
+        <div class="container ">
+            <div class="row ">
+                <div class="col"style="width:100px;"  >
                     <div class="card">
 
                         <p><?php echo  $hotel['name']   ?> </p>
@@ -95,5 +95,8 @@ $hotels = [
 
 
 </body>
+
+
+
 
 </html>
